@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+Every node now has an Inspector description. No pin, field or template changed.
+
 ## 0.1.0
 
 First release: 30 pure text nodes (category Text), all `stringutils/<Kind>@1`.
