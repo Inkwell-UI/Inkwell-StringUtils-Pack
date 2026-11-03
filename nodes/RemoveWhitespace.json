@@ -19,5 +19,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/RemoveWhitespace.as2"
+  "as2Template": "templates/RemoveWhitespace.as2",
+  "extra": {
+    "inspector": {
+      "description": "Removes all spaces, tabs and line breaks from a text."
+    }
+  }
 }

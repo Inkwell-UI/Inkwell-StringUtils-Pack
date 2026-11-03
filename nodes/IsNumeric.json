@@ -19,5 +19,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/IsNumeric.as2"
+  "as2Template": "templates/IsNumeric.as2",
+  "extra": {
+    "inspector": {
+      "description": "True when a text is a valid number."
+    }
+  }
 }

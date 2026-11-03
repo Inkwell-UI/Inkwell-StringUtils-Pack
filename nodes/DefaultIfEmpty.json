@@ -24,5 +24,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/DefaultIfEmpty.as2"
+  "as2Template": "templates/DefaultIfEmpty.as2",
+  "extra": {
+    "inspector": {
+      "description": "Gives a fallback text when the text is empty."
+    }
+  }
 }

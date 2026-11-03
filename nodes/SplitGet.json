@@ -29,5 +29,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/SplitGet.as2"
+  "as2Template": "templates/SplitGet.as2",
+  "extra": {
+    "inspector": {
+      "description": "Splits a text at a delimiter and reads one part."
+    }
+  }
 }

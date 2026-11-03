@@ -24,5 +24,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/Coalesce.as2"
+  "as2Template": "templates/Coalesce.as2",
+  "extra": {
+    "inspector": {
+      "description": "Gives the first text if it has content, otherwise the second."
+    }
+  }
 }

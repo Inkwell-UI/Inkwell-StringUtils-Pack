@@ -24,5 +24,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/Right.as2"
+  "as2Template": "templates/Right.as2",
+  "extra": {
+    "inspector": {
+      "description": "Takes the last characters of a text."
+    }
+  }
 }

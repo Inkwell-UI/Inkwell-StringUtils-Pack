@@ -30,5 +30,10 @@
       "description": "Cut at the last delimiter instead of the first"
     }
   },
-  "as2Template": "templates/SubstringAfter.as2"
+  "as2Template": "templates/SubstringAfter.as2",
+  "extra": {
+    "inspector": {
+      "description": "Gives the part of a text after a delimiter."
+    }
+  }
 }

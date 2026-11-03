@@ -30,5 +30,10 @@
       "description": "Compare without regard to letter case"
     }
   },
-  "as2Template": "templates/Contains.as2"
+  "as2Template": "templates/Contains.as2",
+  "extra": {
+    "inspector": {
+      "description": "True when a text contains another text."
+    }
+  }
 }

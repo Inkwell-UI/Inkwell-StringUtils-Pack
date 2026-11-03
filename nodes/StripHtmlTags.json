@@ -19,5 +19,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/StripHtmlTags.as2"
+  "as2Template": "templates/StripHtmlTags.as2",
+  "extra": {
+    "inspector": {
+      "description": "Removes HTML tags from a text."
+    }
+  }
 }

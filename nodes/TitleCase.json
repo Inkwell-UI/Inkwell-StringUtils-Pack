@@ -19,5 +19,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/TitleCase.as2"
+  "as2Template": "templates/TitleCase.as2",
+  "extra": {
+    "inspector": {
+      "description": "Makes every word of a text start with a capital."
+    }
+  }
 }

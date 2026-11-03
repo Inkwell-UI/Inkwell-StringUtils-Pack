@@ -24,5 +24,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/FormatThousands.as2"
+  "as2Template": "templates/FormatThousands.as2",
+  "extra": {
+    "inspector": {
+      "description": "Turns a number into text with separators like 1,234,567."
+    }
+  }
 }

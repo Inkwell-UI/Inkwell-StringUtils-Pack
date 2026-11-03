@@ -29,5 +29,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/IndexOf.as2"
+  "as2Template": "templates/IndexOf.as2",
+  "extra": {
+    "inspector": {
+      "description": "Finds where a text first appears inside another, or -1."
+    }
+  }
 }

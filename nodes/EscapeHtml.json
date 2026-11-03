@@ -19,5 +19,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/EscapeHtml.as2"
+  "as2Template": "templates/EscapeHtml.as2",
+  "extra": {
+    "inspector": {
+      "description": "Makes a text safe to show as HTML by escaping special characters."
+    }
+  }
 }

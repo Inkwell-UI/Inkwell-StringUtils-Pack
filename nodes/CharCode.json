@@ -19,5 +19,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/CharCode.as2"
+  "as2Template": "templates/CharCode.as2",
+  "extra": {
+    "inspector": {
+      "description": "Gives the character code of the first character."
+    }
+  }
 }

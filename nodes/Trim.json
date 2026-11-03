@@ -30,5 +30,10 @@
       "description": "Which ends to strip: space, tab, CR and LF"
     }
   },
-  "as2Template": "templates/Trim.as2"
+  "as2Template": "templates/Trim.as2",
+  "extra": {
+    "inspector": {
+      "description": "Removes spaces from the ends of a text."
+    }
+  }
 }

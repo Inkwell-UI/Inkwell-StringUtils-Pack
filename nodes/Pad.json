@@ -39,5 +39,10 @@
       "description": "Add the padding before or after the text"
     }
   },
-  "as2Template": "templates/Pad.as2"
+  "as2Template": "templates/Pad.as2",
+  "extra": {
+    "inspector": {
+      "description": "Fills a text with a character up to a length."
+    }
+  }
 }

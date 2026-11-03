@@ -29,5 +29,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/Truncate.as2"
+  "as2Template": "templates/Truncate.as2",
+  "extra": {
+    "inspector": {
+      "description": "Cuts a text to a maximum length and adds a suffix."
+    }
+  }
 }

@@ -24,5 +24,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/EqualsIgnoreCase.as2"
+  "as2Template": "templates/EqualsIgnoreCase.as2",
+  "extra": {
+    "inspector": {
+      "description": "True when two texts match, ignoring upper or lower case."
+    }
+  }
 }

@@ -24,5 +24,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/CharAt.as2"
+  "as2Template": "templates/CharAt.as2",
+  "extra": {
+    "inspector": {
+      "description": "Reads the single character at an index."
+    }
+  }
 }

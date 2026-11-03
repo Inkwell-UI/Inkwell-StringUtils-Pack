@@ -19,5 +19,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/CollapseSpaces.as2"
+  "as2Template": "templates/CollapseSpaces.as2",
+  "extra": {
+    "inspector": {
+      "description": "Squeezes runs of spaces into one space."
+    }
+  }
 }

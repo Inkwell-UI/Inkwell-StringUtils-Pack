@@ -24,5 +24,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/CountOccurrences.as2"
+  "as2Template": "templates/CountOccurrences.as2",
+  "extra": {
+    "inspector": {
+      "description": "Counts how many times a text appears inside another."
+    }
+  }
 }
